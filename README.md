@@ -3,6 +3,10 @@ Implementation of extended Kalman filter for sensor fusion with RADAR and LIDAR 
 
 The project's [GitHub repository](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project) (included within the workspace) contains all of the files that you will need. 
 
+## Simulation
+
+<img src="https://github.com/ChenBohan/Udacity-CarND-Project-Extended-Kalman-Filter/blob/master/ekf_sim.gif" width = "70%" height = "70%" div align=center />
+
 ## Logic
 
 - Rececive measurement data
